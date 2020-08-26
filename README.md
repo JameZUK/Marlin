@@ -1,4 +1,4 @@
-# Marlin 3D Printer Firmware
+# Marlin 3D Printer Firmware - SKR 1.4 for AnyCubic Mega X with TMC2209 and bltouch
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
